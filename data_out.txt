@@ -1,0 +1,18 @@
+*MODEL PARAMETERS*
+Minimum depth = 10
+maximum depth = 40
+Minimum slope = 0
+Maximum slope = 3
+
+*TURBINE LOCATIONS*
+Number of turbines = 10
+"Turbine 1: (258, 114)"
+"Turbine 2: (122, 239)"
+"Turbine 3: (86, 90)"
+"Turbine 4: (261, 252)"
+"Turbine 5: (217, 43)"
+"Turbine 6: (203, 296)"
+"Turbine 7: (164, 27)"
+"Turbine 8: (155, 136)"
+"Turbine 9: (210, 185)"
+"Turbine 10: (280, 160)"
